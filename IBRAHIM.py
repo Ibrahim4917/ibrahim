@@ -1,1 +1,1 @@
-import MALIK.py
+import king.py
