@@ -1,1 +1,1 @@
-import king.py
+import king
